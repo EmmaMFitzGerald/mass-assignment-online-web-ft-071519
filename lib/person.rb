@@ -6,5 +6,4 @@ class Person
   end
 
   
-  
 end
